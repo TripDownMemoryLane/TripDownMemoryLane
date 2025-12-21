@@ -15,5 +15,6 @@ TripDownMemoryLane-final/
 前端（React）	4000 <br />
 後端（API）	4001
 
-https://github.com/TripDownMemoryLane/backend.git
-https://github.com/TripDownMemoryLane/memoryLaneFrontend.git
+## 開發用 repo
+- https://github.com/TripDownMemoryLane/backend.git 
+- https://github.com/TripDownMemoryLane/memoryLaneFrontend.git
