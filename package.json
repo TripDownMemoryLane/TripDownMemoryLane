@@ -1,0 +1,13 @@
+{
+  "name": "trip-down-memory-lane-monorepo",
+  "version": "1.0.0",
+  "description": "Full-stack multimodal AI memory journaling platform",
+  "scripts": {
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install",
+    "test:backend": "npm --prefix backend test",
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"blue,green\" \"npm --prefix backend start\" \"npm --prefix frontend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
