@@ -7,6 +7,13 @@
 An interactive multimodal platform combining computer vision, generative AI storytelling, adaptive quizzes, and synthesized audio playback to archive and revisit personal memories.
 
 
+## 📽️ System Demo & Architecture Presentation
+
+| 📺 Video Demonstration | 📑 Technical Presentation |
+| :--- | :--- |
+| [![Watch the Demo](https://img.youtube.com/vi/AnKT1Wh7sXg/hqdefault.jpg)](https://www.youtube.com/watch?v=AnKT1Wh7sXg) | **Trip Down Memory Lane**<br>*System Architecture, AI Pipeline & Project Evaluation Deck*<br><br>[![View Presentation PDF](https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./docs/FinalProjectPresentation.pdf) |
+| **Platform Walkthrough:** End-to-end user workflow showing photo memory uploads, AI story generation, interactive quizzes, and TTS audio playback. | **Architecture Slide Deck:** Covers cognitive health motivation, multimodal AI orchestration, client-side IndexedDB privacy, and team task allocation. |
+
 ## 🏛️ System Architecture & Engineering Breakdown
 
 This repository serves as the umbrella orchestration monorepo integrating two decoupled services via Git submodules:
