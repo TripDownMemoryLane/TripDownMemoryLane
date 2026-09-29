@@ -46,7 +46,7 @@ This repository serves as the umbrella orchestration monorepo integrating two de
 ## 📂 Project Structure & Submodules
 
 ```text
-TripDownMemoryLane-final/
+TripDownMemoryLane/
 ├── frontend/             # Submodule: React client application
 ├── backend/              # Submodule: Express multimodal backend API
 ├── .gitmodules           # Tracks submodule references and remote commits
@@ -62,8 +62,8 @@ TripDownMemoryLane-final/
 To clone the monorepo along with all tracked sub-repositories:
 
 ```bash
-git clone --recurse-submodules https://github.com/TripDownMemoryLane/TripDownMemoryLane-final.git
-cd TripDownMemoryLane-final
+git clone --recurse-submodules https://github.com/TripDownMemoryLane/TripDownMemoryLane.git
+cd TripDownMemoryLane
 ```
 
 > **Note for standard clones:** If you cloned without `--recurse-submodules`, initialize them manually:
